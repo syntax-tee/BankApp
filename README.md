@@ -1,1 +1,1 @@
-Bank App RESTFul API  with Java local storage.
+ RESTFul API simulation witn Spring Boot using Bank CRUD activitities   with Java local storage(HashMap).
